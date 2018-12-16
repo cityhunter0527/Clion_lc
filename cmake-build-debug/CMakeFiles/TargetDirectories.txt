@@ -1,0 +1,6 @@
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/CMakeFiles/lc_git.dir
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/01_Linked_List/CMakeFiles/edit_cache.dir
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/01_Linked_List/CMakeFiles/test_linked_list.dir
+C:/Users/softs/CLionProjects/lc_git/cmake-build-debug/01_Linked_List/CMakeFiles/rebuild_cache.dir
